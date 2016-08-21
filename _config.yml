@@ -1,3 +1,4 @@
+layout_spectrum: 0.9857637328095734
 typography_spectrum: 0.5571091049350798
 color:
   brandStrength: 0.7551479090470821
@@ -10,7 +11,4 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-layout_spectrum: 0.9857637328095734
 name: Boris Vaskin
-title: This is my 1st GRID
-description: Welcome
